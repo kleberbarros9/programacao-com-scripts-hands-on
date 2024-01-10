@@ -1,0 +1,58 @@
+{
+  "alunos": [
+    {
+      "nome": "Kleber",
+      "matricula": "001",
+      "curso": "Sistemas para internet",
+      "id": 1
+    },
+    {
+      "nome": "Khalel",
+      "matricula": "dsdfddsd23323",
+      "curso": "Redes",
+      "id": 3
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Introdução a progração com scripts",
+      "cargaHoraria": "60h",
+      "professor": "Nélio Frazão",
+      "status": "Obrigatória",
+      "observacoes": ""
+    },
+    {
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Khalel",
+      "status": "Obrigatória",
+      "observacoes": "Praesent sollicitudin purus nec dui tincidunt blandit. Etiam vehicula ut urna in placerat. ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Sistemas para internet",
+      "cargaHoraria": "60h",
+      "professor": "Kelvin",
+      "status": "Obrigatória",
+      "observacoes": ""
+    },
+    {
+      "nome": "Inglês Instrumental",
+      "cargaHoraria": "30h",
+      "professor": "Kate",
+      "status": "Opcional",
+      "observacoes": "Donec at efficitur magna. Integer posuere neque ut metus dapibus, in mollis nulla viverra.",
+      "id": 4
+    },
+    {
+      "nome": "Português",
+      "cargaHoraria": "60h",
+      "professor": "Kelvin",
+      "status": "Opcional",
+      "observacoes": "sdsdf sfs",
+      "id": 5
+    }
+  ]
+}
